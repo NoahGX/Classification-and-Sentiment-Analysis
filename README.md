@@ -20,7 +20,6 @@ The purpose of this Jupyter Notebook is designed for the classification and sent
 - Libraries: numpy, pandas, seaborn, matplotlib, TensorFlow, scikit-learn, imbalanced-learn
 
 ## Input
-The input data includes the Poker Hand dataset from the UCI Machine Learning Repository and the Hotel Reviews dataset from Kaggle:
 - **Poker Hand Dataset**: Ensure the dataset is downloaded and accessible to the notebook.
 - **Hotel Reviews Dataset**: Obtain the dataset via the Kaggle API or by direct download.
 
