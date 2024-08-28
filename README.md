@@ -1,4 +1,4 @@
-# Sentiment Analysis
+# Classification and Sentiment Analysis
 
 ## Overview
 The purpose of this Jupyter Notebook is designed for the classification and sentiment analysis of poker hands and hotel reviews using machine learning models. It utilizes various libraries in Python to preprocess data, construct models, and evaluate their performance.
